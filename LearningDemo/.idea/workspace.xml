@@ -12,6 +12,7 @@
   </component>
   <component name="CoverageDataManager">
     <SUITE FILE_PATH="coverage/LearningDemo$knn_demo3.coverage" NAME="knn_demo3 Coverage Results" MODIFIED="1521458862532" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/knn/hyjia/cn" />
+    <SUITE FILE_PATH="coverage/LearningDemo$demo2__1_.coverage" NAME="demo2 (1) Coverage Results" MODIFIED="1521797802146" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/bayes/hyjia/cn" />
     <SUITE FILE_PATH="coverage/LearningDemo$knn_demo2.coverage" NAME="knn_demo2 Coverage Results" MODIFIED="1521547890278" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/knn/hyjia/cn" />
     <SUITE FILE_PATH="coverage/LearningDemo$demo3.coverage" NAME="demo3 Coverage Results" MODIFIED="1521620216408" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/decTree/hyjia/cn" />
     <SUITE FILE_PATH="coverage/LearningDemo$demo1.coverage" NAME="demo1 Coverage Results" MODIFIED="1521613781869" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/decTree" />
@@ -63,12 +64,24 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="demo1.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="demo1.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/bayes/hyjia/cn/demo1.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="350">
-              <caret line="98" column="0" lean-forward="true" selection-start-line="98" selection-start-column="0" selection-end-line="98" selection-end-column="0" />
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="23" />
               <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="demo2.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/bayes/hyjia/cn/demo2.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="292">
+              <caret line="228" column="8" lean-forward="true" selection-start-line="228" selection-start-column="8" selection-end-line="228" selection-end-column="8" />
+              <folding>
+                <element signature="e#25#34#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -217,6 +230,7 @@
         <option value="$PROJECT_DIR$/decTree/hyjia/cn/demo4.py" />
         <option value="$PROJECT_DIR$/decTree/hyjia/cn/demo5.py" />
         <option value="$PROJECT_DIR$/bayes/hyjia/cn/demo1.py" />
+        <option value="$PROJECT_DIR$/bayes/hyjia/cn/demo2.py" />
       </list>
     </option>
   </component>
@@ -234,8 +248,8 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="1454" />
-    <option name="y" value="140" />
+    <option name="x" value="1413" />
+    <option name="y" value="115" />
     <option name="width" value="1669" />
     <option name="height" value="795" />
   </component>
@@ -303,25 +317,24 @@
               <item name="bayes" type="462c0819:PsiDirectoryNode" />
               <item name="hyjia" type="462c0819:PsiDirectoryNode" />
               <item name="cn" type="462c0819:PsiDirectoryNode" />
-              <item name="demo1.py" type="8704e2dd:PyFileNode" />
+              <item name="email" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="LearningDemo" type="b2602c69:ProjectViewProjectNode" />
               <item name="LearningDemo" type="462c0819:PsiDirectoryNode" />
-              <item name="knn" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="LearningDemo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="LearningDemo" type="462c0819:PsiDirectoryNode" />
-              <item name="knn" type="462c0819:PsiDirectoryNode" />
-              <item name="hyjia" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="LearningDemo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="LearningDemo" type="462c0819:PsiDirectoryNode" />
-              <item name="knn" type="462c0819:PsiDirectoryNode" />
+              <item name="bayes" type="462c0819:PsiDirectoryNode" />
               <item name="hyjia" type="462c0819:PsiDirectoryNode" />
               <item name="cn" type="462c0819:PsiDirectoryNode" />
+              <item name="email" type="462c0819:PsiDirectoryNode" />
+              <item name="ham" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="LearningDemo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="LearningDemo" type="462c0819:PsiDirectoryNode" />
+              <item name="bayes" type="462c0819:PsiDirectoryNode" />
+              <item name="hyjia" type="462c0819:PsiDirectoryNode" />
+              <item name="cn" type="462c0819:PsiDirectoryNode" />
+              <item name="demo2.py" type="8704e2dd:PyFileNode" />
             </path>
           </expand>
           <select />
@@ -352,6 +365,7 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/bayes/hyjia/cn" />
       <recent name="$PROJECT_DIR$/decTree/hyjia/cn" />
       <recent name="$PROJECT_DIR$/knn/hyjia/cn" />
     </key>
@@ -368,7 +382,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.demo1 (1)">
+  <component name="RunManager" selected="Python.demo2 (1)">
     <configuration default="true" type="Applet" factoryName="Applet">
       <module />
       <option name="HTML_USED" value="false" />
@@ -473,20 +487,20 @@
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
     </configuration>
-    <configuration name="demo2" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="demo2 (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/decTree/hyjia/cn" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/bayes/hyjia/cn" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="LearningDemo" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/decTree/hyjia/cn/demo2.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/bayes/hyjia/cn/demo2.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -546,19 +560,19 @@
       <option name="EMULATE_TERMINAL" value="false" />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.demo2" />
-      <item index="1" class="java.lang.String" itemvalue="Python.demo3" />
-      <item index="2" class="java.lang.String" itemvalue="Python.demo4" />
-      <item index="3" class="java.lang.String" itemvalue="Python.demo5" />
-      <item index="4" class="java.lang.String" itemvalue="Python.demo1 (1)" />
+      <item index="0" class="java.lang.String" itemvalue="Python.demo3" />
+      <item index="1" class="java.lang.String" itemvalue="Python.demo4" />
+      <item index="2" class="java.lang.String" itemvalue="Python.demo5" />
+      <item index="3" class="java.lang.String" itemvalue="Python.demo1 (1)" />
+      <item index="4" class="java.lang.String" itemvalue="Python.demo2 (1)" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.demo1 (1)" />
-        <item index="1" class="java.lang.String" itemvalue="Python.demo4" />
-        <item index="2" class="java.lang.String" itemvalue="Python.demo5" />
-        <item index="3" class="java.lang.String" itemvalue="Python.demo3" />
-        <item index="4" class="java.lang.String" itemvalue="Python.demo2" />
+        <item index="0" class="java.lang.String" itemvalue="Python.demo2 (1)" />
+        <item index="1" class="java.lang.String" itemvalue="Python.demo1 (1)" />
+        <item index="2" class="java.lang.String" itemvalue="Python.demo4" />
+        <item index="3" class="java.lang.String" itemvalue="Python.demo5" />
+        <item index="4" class="java.lang.String" itemvalue="Python.demo3" />
       </list>
     </recent_temporary>
   </component>
@@ -574,15 +588,15 @@
       <updated>1521443691372</updated>
       <workItem from="1521443700492" duration="5157000" />
       <workItem from="1521449647693" duration="4738000" />
-      <workItem from="1521459633216" duration="22107000" />
+      <workItem from="1521459633216" duration="25923000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="32002000" />
+    <option name="totallyTimeSpent" value="35818000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="1454" y="140" width="1669" height="795" extended-state="0" />
+    <frame x="1413" y="115" width="1669" height="795" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -592,7 +606,7 @@
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.31673583" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.31673583" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -674,8 +688,18 @@
           <line>26</line>
           <option name="timeStamp" value="34" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/bayes/hyjia/cn/demo2.py</url>
+          <line>29</line>
+          <option name="timeStamp" value="42" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/bayes/hyjia/cn/demo2.py</url>
+          <line>30</line>
+          <option name="timeStamp" value="43" />
+        </line-breakpoint>
       </breakpoints>
-      <option name="time" value="36" />
+      <option name="time" value="45" />
     </breakpoint-manager>
     <watches-manager />
   </component>
@@ -857,9 +881,43 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/bayes/hyjia/cn/demo1.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="350">
-          <caret line="98" column="0" lean-forward="true" selection-start-line="98" selection-start-column="0" selection-end-line="98" selection-end-column="0" />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="23" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bayes/hyjia/cn/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bayes/hyjia/cn/email/ham/1.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bayes/hyjia/cn/email/ham/20.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bayes/hyjia/cn/demo2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="292">
+          <caret line="228" column="8" lean-forward="true" selection-start-line="228" selection-start-column="8" selection-end-line="228" selection-end-column="8" />
+          <folding>
+            <element signature="e#25#34#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
