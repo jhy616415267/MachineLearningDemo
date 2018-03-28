@@ -6,6 +6,8 @@ import numpy as np
 
 
 
+
+
 def createVocabList(dataSet):
     vocabSet = set([])
     for document in dataSet:
